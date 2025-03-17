@@ -1,0 +1,33 @@
+ <div class="container">
+        <div class="content"><h2><i class='bx bx-money-withdraw'></i>Bitos</h2>
+            <div class="text-sci">
+                <h2>Welcome!<br><span>To My Website.</span></h2>
+                <p>Hello Guys, I hope Your Having a Good day Today, Feel Free to Explore My Website and Have a Nice Day.</p>
+                <div class="social-icons">
+                    <a href="https://www.youtube.com/@Randy_Animations143"><i class='bx bxl-youtube'></i>
+                    <a href="https://www.facebook.com/mojang.gameplay"><i class='bx bxl-facebook-circle' ></i>
+                    <a href="https://www.instagram.com/bitoskimkim/profile"><i class='bx bxl-instagram-alt' ></i>
+                    <a href="https://x.com/gaming_kim35185"><i class='bx bxl-twitter' ></i>
+                </div>
+            </div>
+        </div>
+        <div class="logreg-box">
+            <div class="form-box login">
+                <form action="#">
+                    <h2>Sign In</h2>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-envelope'></i></span>
+                        <input type="email" required>
+                        <label>Email</label>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-lock-alt' ></i></span>
+                        <input type="password" required>
+                        <label>Password</label>
+                    </div>
+
+                    <div class="remember-forgot">
+                        <label><input type="checkbox"> Remember Me</label>
+                        <a href="#"></a>
